@@ -1,0 +1,16 @@
+{
+  "name": "esm-iso",
+  "version": "0.0.3",
+  "description": "Isomorphic ESM Loader",
+  "main": "index.js",
+  "keywords": [
+    "esm",
+    "isomorphic",
+    "js",
+    "loader",
+    "module",
+    "/m/"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "ISC"
+}
