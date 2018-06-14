@@ -1,6 +1,6 @@
 {
   "name": "esm-iso",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Isomorphic ESM Loader",
   "main": "index.js",
   "keywords": [
