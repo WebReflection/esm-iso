@@ -12,5 +12,13 @@
     "/m/"
   ],
   "author": "Andrea Giammarchi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebReflection/esm-iso.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WebReflection/esm-iso/issues"
+  },
+  "homepage": "https://github.com/WebReflection/esm-iso#readme"
 }
